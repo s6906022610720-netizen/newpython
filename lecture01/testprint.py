@@ -1,0 +1,1 @@
+print('\ta\na\ta\ta\n\ta')
