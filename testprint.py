@@ -1,0 +1,1 @@
+print('\ta\nb\n\tc\n\td')
