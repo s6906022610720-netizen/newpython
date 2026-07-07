@@ -1,0 +1,13 @@
+age = 25
+hieght = float(age)
+print(hieght, age)
+
+height = 5.9
+age = int(height)
+print(height, age)
+
+num_str = "123"
+result = int(num_str) * 3
+print(result)
+num_str = int(num_str)
+
